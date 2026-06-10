@@ -1,4 +1,4 @@
 Hi - Welcome to DevOps Session
 Good Morning Students
-Todays Topics
+Todays Topicsq
 1. DevOps - Git and its functions
